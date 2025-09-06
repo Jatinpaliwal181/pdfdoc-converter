@@ -1,0 +1,14 @@
+# Node deps
+node_modules/
+**/node_modules/
+
+# Build outputs
+dist/
+build/
+.vite/
+frontend/dist/
+backend/dist/
+
+# Environment / secrets
+.env
+.env.*.local
